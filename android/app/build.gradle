@@ -46,7 +46,7 @@ android {
         applicationId "com.appcircle.sample_flutter_google_submit_app"
         minSdkVersion flutter.minSdkVersion
         targetSdkVersion 33
-        versionCode 121207
+        versionCode 121221
         versionName "1.0.0"
     }
 
