@@ -53,8 +53,8 @@ dev_dependencies:
 flutter:
   assets:
     - assets/50MB.apk
+    - assets/test.aab
     - assets/100MB.apk
-    - assets/50MB2.apk
     - assets/40MB.aab
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in
