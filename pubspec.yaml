@@ -50,12 +50,12 @@ dev_dependencies:
 # following page: https://dart.dev/tools/pub/pubspec
 
 # The following section is specific to Flutter.
-flutter:
-  assets:
-    - assets/50MB.apk
-    - assets/test.aab
-    - assets/100MB.apk
-    - assets/40MB.aab
+# flutter:
+#   assets:
+#     - assets/50MB.apk
+#     - assets/test.aab
+#     - assets/100MB.apk
+#     - assets/40MB.aab
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in
   # the material Icons class.
