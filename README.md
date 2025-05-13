@@ -1,4 +1,4 @@
-# Appcircle Sample Mobile App for Flutter Builds
+# Appcircle Sample App for Flutter Builds
 This is a sample Flutter app for testing Flutter App build functionality in Appcircle. As a cross-platform project, this repository can be used both for iOS and Android builds.
 
 ## Using the Appcircle Build Module
